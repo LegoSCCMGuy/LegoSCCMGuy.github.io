@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Lego SCCM Guy
+subtitle: CM, the Lego way, One Brick at a time
 ---
 
 My name is Barry Harriman. 
